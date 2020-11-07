@@ -27,7 +27,7 @@ Python libraries:
   
 ## Setup
 
-Input data: result2.csv, this is the end result of the https://github.com/katarzynajanicka/fragrance-clustering projecting.
+Input data: result2.csv, this is the end result of the https://github.com/katarzynajanicka/fragrance-clustering project.
 
 Output data: hierarchical-clustering.ipynb
 
