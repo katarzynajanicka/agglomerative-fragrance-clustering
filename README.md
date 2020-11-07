@@ -36,9 +36,11 @@ Output data: hierarchical-clustering.ipynb
 ## Results
 
 Dendrogram:
+
 ![](clusters_v0.png)
 
 Dendrogram with non-singleton clusters contracted into leaf nodes:
+
 ![](clusters_v1.png)
 
 **Conclusions**
