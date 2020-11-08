@@ -41,6 +41,9 @@ Dendrogram:
 Dendrogram with non-singleton clusters contracted into leaf nodes:
 ![](clusters_v1.png)
 
+The fragrance families:
+![](fragrancetree.jpg)
+
 **Conclusions**
 
 Agglomerative hierarchical clustering technique turned out be a better approach than K-means++ clustering (see: https://github.com/katarzynajanicka/fragrance-clustering). This is due to the fact that different perfume fragrances usually have the same notes.
