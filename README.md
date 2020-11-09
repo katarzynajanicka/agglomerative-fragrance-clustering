@@ -42,7 +42,7 @@ Dendrogram with non-singleton clusters contracted into leaf nodes:
 ![](clusters_v1.png)
 
 The fragrance families:
-![](fragrancetree.jpg)
+![](fragrancetree.png)
 
 **Conclusions**
 
