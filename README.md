@@ -35,12 +35,11 @@ Output data: hierarchical-clustering.ipynb
 
 ## Results
 
+**Fragrance families visualization**
 Dendrogram:
 ![](clusters_v0.png)
-
 Dendrogram with non-singleton clusters contracted into leaf nodes:
 ![](clusters_v1.png)
-
 The fragrance families:
 ![](fragrancetree.png)
 
