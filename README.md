@@ -44,7 +44,6 @@ Output data:
 **Dendrograms**
 
 ![](./screens/clusters_v0.png)
-
 ![](./screens/fragrancetree.png)
 
 **Hierarchical clustering**
