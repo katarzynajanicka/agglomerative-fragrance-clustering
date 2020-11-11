@@ -27,11 +27,18 @@ Python libraries:
   
 ## Setup
 
-Input data: result2.csv, this is the end result of the https://github.com/katarzynajanicka/fragrance-clustering project.
+Input data: result.csv, this is the end result of the https://github.com/katarzynajanicka/fragrance-clustering project.
 
-Output data: hierarchical-clustering.ipynb
+Output data: 
+* hierarchical-clustering.ipynb (Jupyter notebook)
+* popular.csv (most popular fragrances)
+* hierarchical_result.csv (end result)
 
 ## Results
+
+Data structure:
+
+![](data.png)
 
 ![](fragrancetree.png)
 
