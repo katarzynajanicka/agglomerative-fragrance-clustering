@@ -55,9 +55,8 @@ Output data:
 
 **Cluster description by top accords**
 
-![](./screens/clusters_per_size.png)
-
 ![](./screens/top_accords_per_cluster.png)
+![](./screens/clusters_per_size.png)
 
 **Fragrance tree**
 
