@@ -48,10 +48,10 @@ There are 39.7K rows. Each observation is a unique female fragrance.
 Fields:
 - <b> brand </b> - name of the brand
 - <b> title </b>  - name of the fragrance
-- <b> date </b> - release date (In YYYY format)
-- <b> accords </b> - top notes
-- <b> votes </b> - number of votes cast for a scent
+- <b> date </b> - release date (in YYYY format)
 - <b> rating_score </b> - fragrance rating
+- <b> votes </b> - number of votes cast for a scent
+- <b> accords </b> - top five notes
 
 ![](./screens/most_frequent_accords.png)
 
