@@ -8,7 +8,7 @@ Hierarchical agglomerative clustering on fragrance accords
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Screenshots](#screenshots)
+* [Results](#results)
 * [Status](#status)
 
 ## General info
