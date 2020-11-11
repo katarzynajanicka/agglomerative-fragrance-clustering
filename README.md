@@ -40,6 +40,7 @@ Output data:
 **Data structure**
 
 ![](./screens/data.png)
+![](./screens/most_frequent_accords.png)
 
 **Dendrograms**
 
@@ -51,8 +52,6 @@ Output data:
 ![](./screens/hierarchical_clustering.png)
 
 **Cluster description by top accords**
-
-![](./screens/most_frequent_accords.png)
 
 ![](./screens/clusters_per_size.png)
 
