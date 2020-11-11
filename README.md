@@ -35,6 +35,8 @@ Output data:
 
 ## Results
 
+**Project structure**
+
 ![](./screens/structure.png)
 
 **Data structure**
