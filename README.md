@@ -31,20 +31,59 @@ Input data: result.csv, this is the end result of the https://github.com/katarzy
 
 Output data: 
 * hierarchical-clustering.ipynb (Jupyter notebook)
-* popular.csv (most popular fragrances)
 * hierarchical_result.csv (end result)
 
 ## Results
 
-Data structure:
+![](structure.png)
+
+**Data structure**
 
 ![](data.png)
 
+**Dendrograms**
+
+![](clusters_v0.png)
+
 ![](fragrancetree.png)
+
+**Hierarchical clustering**
+
+![](hierarchical_clustering.png)
+
+**Cluster description by top accords**
+
+![](most_frequent_accords.png)
+
+![](clusters_per_size.png)
+
+![](top_accords_per_cluster.png)
+
+**Most popular fragrances**
+
+![](most_popular.png)
+
+**Most popular fragrances by cluster**
+
+![](patchouli_cluster.png)
+
+![](animalic_cluster.png)
+
+**Most popular fragrances by brand**
+
+![](Chanel.png)
+
+![](Dior.png)
+
+![](Dolce&Gabbana.png)
+
+![](Tom_Ford.png)
+
+![](Bottega_Veneta.png)
 
 **Conclusions**
 
 Agglomerative hierarchical clustering technique turned out be a better approach than K-means++ clustering (see: https://github.com/katarzynajanicka/fragrance-clustering). This is due to the fact that different perfume fragrances usually share the same notes. It is not unusual for a fragrance to have accords from two or three fragrance families (Floral, Fresh, Woody, Oriental).
 
 ## Status
-Project is in progress.
+Project is finished.
