@@ -44,7 +44,7 @@ Output data:
 **Dendrograms**
 
 ![](./screens/clusters_v0.png)
-![](./screens/fragrancetree.png)
+![](./screens/clusters_v1.png)
 
 **Hierarchical clustering**
 
@@ -57,6 +57,10 @@ Output data:
 ![](./screens/clusters_per_size.png)
 
 ![](./screens/top_accords_per_cluster.png)
+
+**Fragrance tree**
+
+![](./screens/fragrancetree.png)
 
 **Most popular fragrances**
 
