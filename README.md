@@ -35,51 +35,51 @@ Output data:
 
 ## Results
 
-![](structure.png)
+![](./screens/structure.png)
 
 **Data structure**
 
-![](data.png)
+![](./screens/data.png)
 
 **Dendrograms**
 
-![](clusters_v0.png)
+![](./screens/clusters_v0.png)
 
-![](fragrancetree.png)
+![](./screens/fragrancetree.png)
 
 **Hierarchical clustering**
 
-![](hierarchical_clustering.png)
+![](./screens/hierarchical_clustering.png)
 
 **Cluster description by top accords**
 
-![](most_frequent_accords.png)
+![](./screens/most_frequent_accords.png)
 
-![](clusters_per_size.png)
+![](./screens/clusters_per_size.png)
 
-![](top_accords_per_cluster.png)
+![](./screens/top_accords_per_cluster.png)
 
 **Most popular fragrances**
 
-![](most_popular.png)
+![](./screens/most_popular.png)
 
 **Most popular fragrances by cluster**
 
-![](patchouli_cluster.png)
+![](./screens/patchouli_cluster.png)
 
-![](animalic_cluster.png)
+![](./screens/animalic_cluster.png)
 
 **Most popular fragrances by brand**
 
-![](Chanel.png)
+![](./screens/Chanel.png)
 
-![](Dior.png)
+![](./screens/Dior.png)
 
-![](Dolce&Gabbana.png)
+![](./screens/Dolce&Gabbana.png)
 
-![](Tom_Ford.png)
+![](./screens/Tom_Ford.png)
 
-![](Bottega_Veneta.png)
+![](./screens/Bottega_Veneta.png)
 
 **Conclusions**
 
