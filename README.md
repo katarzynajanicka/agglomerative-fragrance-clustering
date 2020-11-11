@@ -35,11 +35,24 @@ Output data:
 
 ## Results
 
+**Project structure**
+
 ![](./screens/structure.png)
 
 **Data structure**
 
 ![](./screens/data.png)
+
+There are 39.7K rows. Each observation is a unique female fragrance.
+
+Fields:
+- <b> brand </b> - name of the brand
+- <b> title </b>  - name of the fragrance
+- <b> date </b> - release date (in YYYY format)
+- <b> rating_score </b> - fragrance rating
+- <b> votes </b> - number of votes cast for a scent
+- <b> accords </b> - top five notes
+
 ![](./screens/most_frequent_accords.png)
 
 **Dendrograms**
@@ -53,9 +66,8 @@ Output data:
 
 **Cluster description by top accords**
 
-![](./screens/clusters_per_size.png)
-
 ![](./screens/top_accords_per_cluster.png)
+![](./screens/clusters_per_size.png)
 
 **Fragrance tree**
 
@@ -83,7 +95,7 @@ Output data:
 
 ![](./screens/Bottega_Veneta.png)
 
-**Conclusions**
+**Final thoughts**
 
 Agglomerative hierarchical clustering technique turned out be a better approach than K-means++ clustering (see: https://github.com/katarzynajanicka/fragrance-clustering). This is due to the fact that different perfume fragrances usually share the same notes. It is not unusual for a fragrance to have accords from two or three fragrance families (Floral, Fresh, Woody, Oriental).
 
