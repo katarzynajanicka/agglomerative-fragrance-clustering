@@ -31,8 +31,6 @@ Input data: result2.csv, this is the end result of the https://github.com/katarz
 
 Output data: hierarchical-clustering.ipynb
 
-## Screenshots
-
 ## Results
 
 ![](fragrancetree.png)
@@ -40,8 +38,6 @@ Output data: hierarchical-clustering.ipynb
 **Conclusions**
 
 Agglomerative hierarchical clustering technique turned out be a better approach than K-means++ clustering (see: https://github.com/katarzynajanicka/fragrance-clustering). This is due to the fact that different perfume fragrances usually share the same notes. It is not unusual for a fragrance to have accords from two or three fragrance families (Floral, Fresh, Woody, Oriental).
-
-According to the results of the analysis, the optimal number of clusters is twenty.
 
 ## Status
 Project is in progress.
